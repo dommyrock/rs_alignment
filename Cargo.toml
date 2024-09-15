@@ -1,0 +1,9 @@
+[package]
+name = "rs_alignment"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+pretty_assertions = "1.4.1"
